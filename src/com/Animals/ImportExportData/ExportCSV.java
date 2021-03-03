@@ -1,6 +1,6 @@
 package com.Animals.ImportExportData;
 
-import com.Animals.AditionalFunctions.ConvertToCSV;
+import com.Animals.Functions.ConvertToCSV;
 
 import java.io.FileWriter;
 import java.io.IOException;
